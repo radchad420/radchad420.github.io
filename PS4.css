@@ -232,7 +232,7 @@ images, graphics, or media to promotional use only.
 }
 
 .custom .face.right.pressed{
-    background: url(right.png); 
+    background: url(right.png), url(2.png); 
     height: 624px;
     width: 840px;
     background-repeat:no-repeat;
@@ -250,7 +250,7 @@ images, graphics, or media to promotional use only.
     background-repeat:no-repeat;
 }
 .custom .face.down.pressed{ 
-    background: url(down.png), url(2.png); 
+    background: url(down.png); 
     height: 624px;
     width: 840px;
     background-repeat:no-repeat;
